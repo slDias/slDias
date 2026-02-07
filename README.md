@@ -1,8 +1,8 @@
-## Lucas Dias
+## Back-end leaning Full-stack developer
 
 Hi there! Thanks for checking out my profile!
 
-👋 I'm a Back-end leaning Full-stack developer, expert in 🐍 Python and 🕸️ JavaScript, but willing to work with any language. \
+🧐 I'm an expert in 🐍 Python and 🕸️ JavaScript, always willing to learn a new language. \
 🤔 I believe TDD is the fastest way to get realiable software. \
 😃 Scaling solutions is my favorite kind of challenge! \
 📖 Writing a 🕹️ game to learn ⚙️ Rust.
