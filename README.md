@@ -1,5 +1,13 @@
-## Hi there 👋
+## Lucas Dias
 
+Hi there! Thanks for checking out my profile!
+
+👋 I'm a Back-end leaning Full-stack developer, expert in 🐍 Python and 🕸️ JavaScript, but Willing to work with any language.
+🤔 I believe TDD is the fastest way to get realiable software.
+😃 Scaling solutions is my favorite kind of challenge!
+📖 Writing a 🕹️ game to learn ⚙️ Rust.
+
+👷‍♂️ Open to work! reach out at 📫 lucas97dias@outlook.com
 <!--
 **slDias/slDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
