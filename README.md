@@ -1,14 +1,18 @@
-## Back-end leaning Full-stack developer
+## Software Engineer | Full-Stack (Backend Focus)
 
 Hi there! Thanks for checking out my profile!
 
-🧐 I'm an expert in 🐍 Python and 🕸️ JavaScript. Always willing to learn a new language. \
-🤔 I believe TDD is the fastest way to get realiable software. \
-😃 Scaling solutions is my favorite kind of challenge! \
-📖 Writing a 🕹️ game to learn ⚙️ Rust.
+🧐 I'm proficient in 🐍 Python and 🕸️ JavaScript, and always willing to learn a new language. \
+✔️ I believe TDD is the fastest way to get reliable software. \
+⚡ Scaling solutions is my favorite kind of challenge! \
+🌱 Writing a 2D dungeon crawler game to learn ⚙️ Rust.
 
+### 🛠️ Tech Stack
+Python, JavaScript/TypeScript, Rust, Docker, AWS, PostgreSQL, Redis & more.
 
-👷‍♂️ Open to work! reach out on [🟦LinkedIn](https://www.linkedin.com/in/ldias-dev/) or send an [📫 E-mail](mailto:lucas97dias@outlook.com)
+👷‍♂️ Open to work! \
+🟦 [LinkedIn](https://www.linkedin.com/in/ldias-dev/) | 📫 [E-mail](mailto:lucas97dias@outlook.com)
+
 <!--
 **slDias/slDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
