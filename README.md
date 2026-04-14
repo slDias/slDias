@@ -5,7 +5,7 @@ Hi there! Thanks for checking out my profile!
 🧐 I'm proficient in 🐍 Python and 🕸️ JavaScript, and always willing to learn a new language. \
 ✔️ I believe TDD is the fastest way to get reliable software. \
 ⚡ Scaling solutions is my favorite kind of challenge! \
-🌱 Writing a 2D dungeon crawler game to learn ⚙️ Rust.
+📖 Learning ⚙️ Rust.
 
 ### 🛠️ Tech Stack
 Python, JavaScript/TypeScript, Rust, Docker, AWS, PostgreSQL, Redis & more.
