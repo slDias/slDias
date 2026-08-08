@@ -10,7 +10,6 @@ Hi there! Thanks for checking out my profile!
 ### 🛠️ Tech Stack
 Python, JavaScript/TypeScript, Rust, Docker, AWS, PostgreSQL, Redis & more.
 
-👷‍♂️ Open to work! \
 🟦 [LinkedIn](https://www.linkedin.com/in/ldias-dev/) | 📫 [E-mail](mailto:lucas97dias@outlook.com)
 
 <!--
